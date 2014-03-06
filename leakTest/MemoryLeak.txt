@@ -1,0 +1,8 @@
+4
+g:\project2\stackwalker\stackwalker\stack_wakler_include.h (33): SWAddPtr
+g:\project2\stackwalker\leaktest\main.cpp (15): operator new
+g:\project2\stackwalker\leaktest\main.cpp (30): main
+f:\dd\vctools\crt_bld\self_x86\crt\src\crtexe.c (555): __tmainCRTStartup
+f:\dd\vctools\crt_bld\self_x86\crt\src\crtexe.c (371): mainCRTStartup
+
+total size:4

@@ -1,0 +1,4 @@
+4
+f:\dd\vctools\crt_bld\self_x86\crt\src\crtexe.c (555): __tmainCRTStartup
+
+total size:4
